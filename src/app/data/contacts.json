@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Police Station",
+    "phone": "100"
+  },
+  {
+    "name": "Fire Department",
+    "phone": "101"
+  },
+  {
+    "name": "Ambulance",
+    "phone": "108"
+  },
+  {
+    "name": "Village Panchayat",
+    "phone": "+91-9876543210"
+  },
+  {
+    "name": "Electricity Board",
+    "phone": "1912"
+  }
+]
