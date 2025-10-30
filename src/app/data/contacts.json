@@ -12,8 +12,16 @@
     "phone": "108"
   },
   {
-    "name": "Village Panchayat",
+    "name": "Narasingolu Panchayat",
     "phone": "+91-9876543210"
+  },
+  {
+    "name": "Schivalayam",
+    "phone": "+91-9876543211",
+    "secretary": "Sri. K. Venkata Ramana",
+    "address": "Schivalayam Office, Narasingolu Village, Andhra Pradesh",
+    "hours": "Monday to Saturday, 9:00 AM to 5:00 PM",
+    "services": ["Certificate Issuance", "Grievance Redressal", "Administrative Services"]
   },
   {
     "name": "Electricity Board",

@@ -1,18 +1,86 @@
 [
   {
-    "title": "Pradhan Mantri Awas Yojana (PMAY)",
-    "description": "A housing scheme aimed at providing affordable housing to rural households by 2022."
+    "name": "Rythu Bandhu Scheme",
+    "description": "A flagship scheme of the Andhra Pradesh government providing investment support to farmers for purchasing inputs like seeds, fertilizers, and pesticides.",
+    "eligibility": "All farmers owning cultivable land in Andhra Pradesh are eligible. The scheme covers both tenant farmers and landowners.",
+    "benefits": "Provides Rs. 5,000 per acre per season (kharif and rabi) directly to the farmer's bank account. Supports sustainable agriculture practices.",
+    "application": "Farmers need to register through the village secretariat or online portal. Applications are processed annually before each cropping season."
   },
   {
-    "title": "Swachh Bharat Mission (SBM)",
-    "description": "A campaign to make India clean and free from open defecation by constructing toilets and improving sanitation."
+    "name": "Rythu Bharosa Scheme",
+    "description": "Provides financial assistance to farmers affected by natural calamities, crop failures, and other unforeseen circumstances.",
+    "eligibility": "Farmers who have suffered crop loss due to natural disasters, droughts, or floods. Must be registered with the revenue department.",
+    "benefits": "Compensation ranging from Rs. 5,000 to Rs. 15,000 per acre depending on the extent of damage. Quick disbursement within 7-10 days of verification.",
+    "application": "Report crop damage to the local revenue officer or through the Rythu Bharosa app. Submit necessary documents like land records and damage assessment reports."
   },
   {
-    "title": "MGNREGA",
-    "description": "Mahatma Gandhi National Rural Employment Guarantee Act provides 100 days of guaranteed wage employment to rural households."
+    "name": "Andhra Pradesh Crop Insurance Scheme",
+    "description": "Comprehensive crop insurance covering various risks including drought, flood, pest attacks, and disease outbreaks for major crops.",
+    "eligibility": "All farmers growing notified crops in Andhra Pradesh. Premium is shared between central and state governments.",
+    "benefits": "Full compensation for crop loss up to the sum insured. Covers both yield loss and prevented sowing. Premium subsidy up to 90% for small and marginal farmers.",
+    "application": "Enroll through banks, cooperative societies, or online portals during the sowing season. Automatic coverage for loanee farmers."
   },
   {
-    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
-    "description": "A crop insurance scheme to provide financial support to farmers in case of crop failure due to natural calamities."
+    "name": "Rythu Sadhikara Samajam",
+    "description": "Promotes farmer producer organizations and cooperative societies to enhance bargaining power and provide better market access.",
+    "eligibility": "Groups of farmers forming cooperatives or producer companies. Minimum 50 members required for registration.",
+    "benefits": "Access to credit, inputs at discounted rates, collective marketing, and value addition facilities. Government support for infrastructure development.",
+    "application": "Register through the Department of Agriculture. Submit bylaws, member details, and business plan. Training and capacity building provided."
+  },
+  {
+    "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "description": "Promotes organic farming practices and sustainable agriculture in clusters to improve soil health and farmer income.",
+    "eligibility": "Farmers willing to adopt organic farming. Clusters of 50 acres minimum for group certification.",
+    "benefits": "Financial assistance of Rs. 50,000 per hectare for organic inputs and certification. Premium price realization for organic produce.",
+    "application": "Apply through the District Agriculture Officer. Prepare cluster development plan and get organic certification from accredited agencies."
+  },
+  {
+    "name": "Talliki Vandanam",
+    "description": "A scheme providing financial assistance to students in government and private schools from classes I to XII to support their education.",
+    "eligibility": "Students enrolled in classes I to XII in government and private schools in Andhra Pradesh.",
+    "benefits": "Provides Rs. 15,000 per year per student directly to the beneficiary's account.",
+    "application": "Students or parents can apply through the school or online portal. Verification through school records."
+  },
+  {
+    "name": "Annadata Sukhibhava",
+    "description": "A scheme offering annual financial support to farmers to enhance their livelihood and agricultural activities.",
+    "eligibility": "All registered farmers in Andhra Pradesh owning cultivable land.",
+    "benefits": "Provides Rs. 20,000 per year per farmer directly to their bank account.",
+    "application": "Farmers need to register through the village secretariat or online portal with land records."
+  },
+  {
+    "name": "D-Krishi",
+    "description": "An Aadhaar-enabled system for efficient and transparent distribution of seeds to farmers.",
+    "eligibility": "Farmers registered with Aadhaar and owning cultivable land in Andhra Pradesh.",
+    "benefits": "Ensures timely and quality seed distribution through digital tracking and subsidies.",
+    "application": "Register through the D-Krishi portal using Aadhaar. Select seeds and apply for distribution."
+  },
+  {
+    "name": "Paddy Procurement System",
+    "description": "A government initiative to procure paddy from farmers at fair prices to ensure market stability and farmer income.",
+    "eligibility": "Farmers growing paddy in Andhra Pradesh who meet quality standards.",
+    "benefits": "Guaranteed procurement at minimum support price (MSP) with timely payments.",
+    "application": "Farmers can sell paddy at designated procurement centers. Register harvest details in advance."
+  },
+  {
+    "name": "Super Six Schemes",
+    "description": "A comprehensive package including financial aid for women, free bus travel, youth employment, and unemployment assistance.",
+    "eligibility": "Women aged 19-59 for financial aid and bus travel; youth for jobs; unemployed individuals for aid.",
+    "benefits": "Rs. 1,500 per month for eligible women; free bus travel for women; 20 lakh jobs for youth; Rs. 3,000 per month unemployment aid.",
+    "application": "Apply through respective departments: women through social welfare, youth through employment exchanges, unemployed through labor department."
+  },
+  {
+    "name": "NTR Weavers Pension (Rural)",
+    "description": "Pension scheme for rural weavers who are destitute and above 65 years to provide financial security.",
+    "eligibility": "Rural weavers aged 65 and above who are destitute and have been engaged in weaving.",
+    "benefits": "Monthly pension amount as per government norms to support livelihood.",
+    "application": "Apply through the Department of Handlooms and Textiles with proof of age, income, and weaving occupation."
+  },
+  {
+    "name": "NTR Old Age Pension (Urban)",
+    "description": "Pension scheme for urban destitute elderly aged 65 and above to ensure basic financial support.",
+    "eligibility": "Urban residents aged 65 and above who are destitute with no other income sources.",
+    "benefits": "Monthly pension amount as per government norms.",
+    "application": "Apply through the Social Welfare Department with age proof and income certificates."
   }
 ]

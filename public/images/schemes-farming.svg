@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E6F3FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B0E0E6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#bg)"/>
+  <g transform="translate(100,80)">
+    <rect x="-25" y="-25" width="50" height="50" fill="#4169E1" rx="5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFF">₹</text>
+  </g>
+  <g transform="translate(200,80)">
+    <rect x="-25" y="-25" width="50" height="50" fill="#32CD32" rx="5"/>
+    <circle cx="0" cy="0" r="15" fill="#FFD700"/>
+    <polygon points="-5,-5 5,-5 0,5" fill="#228B22"/>
+  </g>
+  <g transform="translate(300,80)">
+    <rect x="-25" y="-25" width="50" height="50" fill="#FF6347" rx="5"/>
+    <rect x="-10" y="-10" width="20" height="20" fill="#8B4513"/>
+    <circle cx="0" cy="0" r="8" fill="#228B22"/>
+  </g>
+  <g transform="translate(50,150)">
+    <rect x="0" y="0" width="60" height="30" fill="#90EE90"/>
+    <text x="30" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2F4F4F">Seeds</text>
+  </g>
+  <g transform="translate(150,150)">
+    <rect x="0" y="0" width="60" height="30" fill="#DEB887"/>
+    <text x="30" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2F4F4F">Tools</text>
+  </g>
+  <g transform="translate(250,150)">
+    <rect x="0" y="0" width="60" height="30" fill="#F0E68C"/>
+    <text x="30" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2F4F4F">Loans</text>
+  </g>
+  <text x="200" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2F4F4F">Government Schemes</text>
+</svg>
